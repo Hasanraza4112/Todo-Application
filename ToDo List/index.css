@@ -1,0 +1,29 @@
+.main{
+    border: 1px solid green !important;
+    align-items: center !important;
+    justify-content: center !important;
+    /* height: 100vh; */
+    background-image: linear-gradient(red, yellow);
+}
+.Btn{
+    background-color: rgb(49, 75, 75);
+    margin-right: -50px;
+    margin-left: 60px;
+    outline-style: none;
+    color: white !important;
+  }
+  #list{
+    /* margin-left: 20px; */
+    /* color: wheat; */
+    font-family: sans-serif;
+    list-style: none;
+    align-items: center;
+}
+li{
+    /* margin-right: 100px; */
+   border: 1px white solid;
+   width: 90% !important ;
+   align-items: center;
+   text-align: center !important;
+   
+} 
